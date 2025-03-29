@@ -58,10 +58,10 @@ Cline-Chinese已发布到VSCode插件市场，欢迎感兴趣的小伙伴们下�
 
 ## 加入社群
 
-感兴趣的可以扫码加入微信社群，一起交流学习AI：
+感兴趣的可以扫码加入微信社群，一起交流学习AI（如果二维码失效，请查看github项目中的首页中，相同位置的群二维码）：
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/afc4e7e5-8b88-4c31-942c-a248dd81e00d" alt="微信群二维码" width="250" />
+  <img src="https://github.com/user-attachments/assets/6eccac45-b4a8-468a-9582-32b7f8dd032d" alt="微信群二维码" width="250" />
 </div>
 
 ## 赞赏支持
